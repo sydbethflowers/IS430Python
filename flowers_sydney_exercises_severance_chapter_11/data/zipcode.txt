@@ -1,0 +1,8 @@
+I once lived in Haddonfield, NJ.  The zipcode there is 08033.
+The value 2121 is not a proper zipcode.
+We also lived at 60025-2252 for a while.
+prefixed55555suffixed
+prefixed44444-1212suffixed
+
+
+running text 77777 then some more running text, then 66666-1234

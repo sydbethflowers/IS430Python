@@ -1,0 +1,86 @@
+Motorcycle,Dominic,Reid,777 River Way,,Urbana,IL,61322,Royal Enfield,Meteor 350,2022,Grey,MCY8027947777,349
+Truck,Felicity,Wallace,600 Arbor Way,,Champaign,IL,61925,Ram,2500,2022,White,TRK9076967275,10000
+Car,Colin,Peters,100 Potter Way,Unit D,Peoria,IL,62965,Toyota,Camry Hybrid,2021,Red,CAR3924971302,Hybrid
+Truck,Julia,Hunter,830 Main Street,,Glenview,IL,62664,Ford,Super Duty F-350,2022,Red,TRK8040992359,12000
+Truck,Tracey,Wallace,501 River Avenue,Unit D,Peoria,IL,62060,GMC,Sierra 3500HD,2021,Blue,TRK3361185790,15000
+Car,Felicity,Morrison,211 Brook Court,,Moline,IL,60552,Toyota,Camry Hybrid,2022,White,CAR8435353064,Hybrid
+Truck,Victoria,MacDonald,501 Potter Circle,,Peoria,IL,62708,Izuzu,FVR,2021,Black,TRK8023994812,17000
+Truck,Isaac,Hamilton,501 Potter Avenue,,Glenview,IL,60110,Ram,2500,2021,White,TRK3336730224,10000
+Car,Rachel,Sanderson,611 Potter Street,,Peoria,IL,62774,Toyota,Corolla,2021,Red,CAR4911013198,Fossil
+Car,Una,Gray,950 Pleasant Avenue,,Peoria,IL,62942,Toyota,Camry,2022,White,CAR9619601754,Fossil
+Truck,John,Scott,501 Main Blvd,Unit B,Chicago,IL,60006,Nissan,Titan XD,2021,Black,TRK7597027420,11000
+Truck,Sarah,Lewis,440 Central Blvd,,Peru,IL,60945,Ford,Super Duty F-350,2021,Grey,TRK3168345449,12000
+Truck,Joshua,Lewis,801 River Court,Apt B,Champaign,IL,62030,Nissan,Titan XD,2021,Black,TRK6602773660,11000
+Car,Leah,Tucker,750 River Avenue,Unit C,Urbana,IL,61255,Toyota,Camry Hybrid,2021,White,CAR3948869479,Hybrid
+Car,Michelle,Parsons,501 Pleasant Avenue,,Urbana,IL,60529,Honda,Civic,2021,Red,CAR4408054953,Fossil
+Car,Leonard,Morrison,801 Central Court,Apt A,Peru,IL,62713,Nissan,Leaf,2022,Grey,CAR9422387368,Electric
+Car,Neil,Carr,830 High Court,,Peru,IL,60940,Honda,Civic,2021,Red,CAR6219218703,Fossil
+Truck,Stewart,Paterson,777 Pleasant Way,,Peru,IL,62311,GMC,Sierra 3500HD,2022,White,TRK1983042431,15000
+Motorcycle,Jack,Dickens,555 Brook Street,,Urbana,IL,60208,Harley Davidson,Pan America 1250,2022,Red,MCY9769033662,1252
+Motorcycle,Anthony,Ross,800 Brook Avenue,Apt B,Peoria,IL,62719,Triumph,Trident 660,2022,Red,MCY8685358344,660
+Car,Anthony,Glover,750 River Circle,,Glenview,IL,61494,Toyota,Camry,2022,Blue,CAR3880582041,Fossil
+Car,Jack,Mackay,702 River Blvd,Unit D,Chicago,IL,61688,Toyota,Camry Hybrid,2021,Red,CAR2590189811,Hybrid
+Motorcycle,Dominic,Mackay,750 Center Blvd,,Waukegan,IL,62374,Royal Enfield,Meteor 350,2021,Grey,MCY5807211506,349
+Truck,Victor,Walker,611 West End Blvd,,Moline,IL,61017,Nissan,Titan XD,2022,Black,TRK5337838560,11000
+Car,Stephanie,Sanderson,950 River Court,,Champaign,IL,62203,Nissan,Altima,2021,Grey,CAR1296067676,Fossil
+Car,Bella,Baker,100 West End Street,,Champaign,IL,62609,Tesla,Model 3,2022,Blue,CAR4489679911,Electric
+Truck,Sebastian,Lewis,100 Potter Way,,Champaign,IL,60143,Ford,Super Duty F-350,2021,Grey,TRK3575913453,12000
+Motorcycle,Claire,Howard,777 Main Court,Apt D,Urbana,IL,62376,Royal Enfield,Meteor 350,2021,Grey,MCY7326991216,349
+Car,Joshua,Gibson,888 Central Court,,Peru,IL,60484,Tesla,Model Y,2022,Black,CAR5812000213,Electric
+Truck,Virginia,Peake,100 Pleasant Avenue,,Peoria,IL,60775,Ford,F-750,2022,White,TRK9510027018,16000
+Car,Cameron,Ross,801 Arbor Avenue,,Peru,IL,62903,Toyota,Prius,2021,Grey,CAR3052094517,Hybrid
+Car,Lily,Black,440 Arbor Circle,Unit D,Glenview,IL,62946,Toyota,Camry Hybrid,2021,Blue,CAR3608467656,Hybrid
+Truck,Julia,Reid,801 Potter Way,Unit B,Champaign,IL,61453,Izuzu,FVR,2021,Black,TRK8757170490,17000
+Motorcycle,Dylan,Hemmings,600 Central Circle,Unit B,Moline,IL,61722,BMW,R1250 GS,2021,White,MCY4848748248,1254
+Motorcycle,Colin,Turner,211 Arbor Blvd,,Urbana,IL,61890,Ducati,Multistrada V4,2022,White,MCY7968675940,1158
+Car,Tracey,Peake,555 High Court,,Waukegan,IL,61926,Nissan,Altima,2021,White,CAR2412599457,Fossil
+Car,Claire,Dyer,501 Brook Circle,Apt C,Chicago,IL,62022,Toyota,RAV4 Hybrid,2022,Blue,CAR6497087190,Hybrid
+Car,Phil,Hunter,950 River Circle,,Peru,IL,60364,Chevrolet,Malibu,2021,Grey,CAR3604763944,Fossil
+Car,Carol,Metcalfe,1000 Pleasant Court,Apt C,Champaign,IL,60883,Nissan,Altima,2021,Grey,CAR8804836953,Fossil
+Car,Leonard,Scott,950 West End Street,,Chicago,IL,61517,Chevrolet,Bolt EV,2021,Grey,CAR5176523605,Electric
+Car,Nicholas,Wallace,555 Center Street,,Chicago,IL,61216,Chevrolet,Bolt EV,2022,Black,CAR7952702531,Electric
+Car,Olivia,Wallace,1000 River Way,,Glenview,IL,60486,Hyundai,Sonata,2022,Black,CAR3945036176,Fossil
+Truck,Dominic,Nash,800 River Way,,Urbana,IL,61378,Chevrolet,Silverado 3500HD,2022,Red,TRK5876582983,14000
+Truck,Blake,Bailey,702 Central Court,,Peoria,IL,60941,Ford,F-750,2021,Blue,TRK9857707877,16000
+Car,Wendy,Wallace,702 Pleasant Court,Apt C,Chicago,IL,62798,Chevrolet,Bolt EV,2022,Red,CAR3951912233,Electric
+Truck,Blake,Mackay,702 Brook Court,,Chicago,IL,60838,GMC,Sierra 2500HD,2021,Black,TRK7097350024,13000
+Car,Wanda,Underwood,702 Center Way,,Waukegan,IL,61636,Honda,Civic,2022,White,CAR2407296694,Fossil
+Car,John,Wallace,900 Main Blvd,,Moline,IL,60667,Honda,Accord,2022,Black,CAR6696859625,Fossil
+Car,Joshua,Manning,100 Center Circle,,Moline,IL,62550,Tesla,Model Y,2021,White,CAR3920682580,Electric
+Truck,Michelle,Buckland,830 Brook Blvd,,Glenview,IL,61300,GMC,Sierra 2500HD,2022,Red,TRK4875549319,13000
+Truck,Nicholas,Lawrence,555 Brook Circle,,Moline,IL,61155,Chevrolet,Silverado 5500HD,2021,Blue,TRK6801961819,16000
+Truck,Andrea,Lee,830 River Court,,Glenview,IL,60926,Ford,F-750,2022,Grey,TRK8097841899,16000
+Car,Christian,Tucker,702 Central Court,,Peru,IL,62909,Toyota,Camry Hybrid,2022,Grey,CAR1678778719,Hybrid
+Car,Joshua,Hill,501 High Circle,,Urbana,IL,60602,Chevrolet,Malibu,2022,Blue,CAR9721796867,Fossil
+Truck,Steven,Manning,702 Arbor Street,,Peru,IL,61181,Ford,Super Duty F-350,2021,Blue,TRK2005297753,12000
+Motorcycle,Anthony,Watson,611 Central Way,,Moline,IL,60360,Aprilia,RS 660,2021,Blue,MCY7359734159,660
+Car,Faith,Cameron,1000 Brook Street,,Lincoln,IL,60311,Nissan,Altima,2021,Black,CAR2276954873,Fossil
+Car,Julia,Tucker,440 Potter Way,,Lincoln,IL,60053,Honda,Civic,2021,Blue,CAR6080196669,Fossil
+Car,Sean,Welch,440 Arbor Way,,Lincoln,IL,62717,Toyota,Camry Hybrid,2021,White,CAR5626639330,Hybrid
+Car,Felicity,Gray,702 Pleasant Circle,,Peru,IL,61491,Honda,CR-V Hybrid,2022,Blue,CAR2341337063,Hybrid
+Truck,Mary,Manning,950 High Circle,,Peru,IL,61028,Ram,2500,2022,White,TRK8926660147,10000
+Car,Joe,Davidson,555 West End Street,Apt C,Moline,IL,61490,Toyota,Prius,2022,Black,CAR4287548374,Hybrid
+Car,Max,Roberts,211 High Court,,Chicago,IL,61094,Ford,Fusion,2022,Blue,CAR6511411147,Fossil
+Car,Abigail,Buckland,702 River Circle,,Glenview,IL,61805,Chevrolet,Bolt EV,2022,Grey,CAR3596437899,Electric
+Car,Nicholas,Oliver,888 Arbor Way,,Moline,IL,60648,Chevrolet,Malibu,2022,Red,CAR1170610950,Fossil
+Car,John,Howard,600 Pleasant Circle,Apt A,Champaign,IL,60577,Toyota,Camry,2021,White,CAR1074521368,Fossil
+Truck,Michael,North,1000 Main Way,Apt C,Champaign,IL,62220,Ford,Super Duty F-350,2021,White,TRK5168323404,12000
+Motorcycle,Sean,Piper,611 Center Way,,Champaign,IL,62942,Kawasaki,Z H2,2022,Grey,MCY5372070167,998
+Motorcycle,Julia,Bond,702 Brook Avenue,Apt A,Chicago,IL,61120,Kawasaki,Z H2,2021,Blue,MCY5302203294,998
+Truck,Neil,Hemmings,100 River Court,Unit D,Lincoln,IL,61749,GMC,Sierra 3500HD,2021,Grey,TRK4101216832,15000
+Motorcycle,Dylan,Paige,800 Center Blvd,Unit D,Champaign,IL,60214,BMW,R1250 GS,2021,White,MCY8266162579,1254
+Car,Victoria,King,702 High Avenue,Unit B,Urbana,IL,61382,Ford,Fusion,2022,White,CAR6245768351,Fossil
+Car,Bella,Manning,335 Central Circle,,Chicago,IL,60179,Ford,Fusion,2021,White,CAR9422718961,Fossil
+Truck,Jasmine,Lewis,501 Arbor Blvd,,Glenview,IL,62460,Ford,F-750,2021,Red,TRK3121818392,16000
+Truck,Yvonne,Alsop,611 Central Avenue,,Urbana,IL,60953,Chevrolet,Silverado 5500HD,2022,Blue,TRK2661817272,16000
+Car,Jasmine,Cameron,800 Brook Circle,,Waukegan,IL,62765,Ford,Fusion,2021,Grey,CAR2173502423,Fossil
+Car,Faith,Langdon,335 River Circle,,Champaign,IL,61256,Toyota,Corolla,2021,Red,CAR2927528306,Fossil
+Truck,Sophie,MacDonald,950 High Way,,Urbana,IL,60913,Chevrolet,Silverado 5500HD,2022,Blue,TRK1104532972,16000
+Motorcycle,Oliver,Cameron,555 Pleasant Circle,,Waukegan,IL,61303,Triumph,Trident 660,2021,Red,MCY1042465955,660
+Truck,Virginia,Wallace,103 Arbor Blvd,,Urbana,IL,61075,Ram,2500,2022,Black,TRK9795861273,10000
+Motorcycle,Sophie,Lyman,950 Arbor Way,,Urbana,IL,62846,Royal Enfield,Meteor 350,2021,White,MCY3849735903,349
+Car,Jonathan,Langdon,702 Brook Way,,Lincoln,IL,61091,Toyota,RAV4 Hybrid,2021,Black,CAR4052672844,Hybrid
+Car,Gordon,Wright,777 High Way,,Lincoln,IL,62587,Toyota,Prius,2021,Black,CAR9290587336,Hybrid
+Truck,Wanda,Underwood,750 Center Court,,Chicago,IL,62794,Ford,F-750,2022,Black,TRK4549447858,16000
+Truck,Cameron,Pullman,100 Main Street,,Peru,IL,62733,Ford,F-750,2021,White,TRK5080726696,16000
+Truck,Chloe,Rutherford,702 Potter Blvd,Apt A,Moline,IL,60727,Ford,F-750,2022,Grey,TRK3611020131,16000

@@ -1,0 +1,43 @@
+Car,Colin,Peters,100 Potter Way,Unit D,Peoria,IL,62965,Toyota,Camry Hybrid,2021,Red,CAR3924971302,Hybrid
+Car,Felicity,Morrison,211 Brook Court,,Moline,IL,60552,Toyota,Camry Hybrid,2022,White,CAR8435353064,Hybrid
+Car,Rachel,Sanderson,611 Potter Street,,Peoria,IL,62774,Toyota,Corolla,2021,Red,CAR4911013198,Fossil
+Car,Una,Gray,950 Pleasant Avenue,,Peoria,IL,62942,Toyota,Camry,2022,White,CAR9619601754,Fossil
+Car,Leah,Tucker,750 River Avenue,Unit C,Urbana,IL,61255,Toyota,Camry Hybrid,2021,White,CAR3948869479,Hybrid
+Car,Michelle,Parsons,501 Pleasant Avenue,,Urbana,IL,60529,Honda,Civic,2021,Red,CAR4408054953,Fossil
+Car,Leonard,Morrison,801 Central Court,Apt A,Peru,IL,62713,Nissan,Leaf,2022,Grey,CAR9422387368,Electric
+Car,Neil,Carr,830 High Court,,Peru,IL,60940,Honda,Civic,2021,Red,CAR6219218703,Fossil
+Car,Anthony,Glover,750 River Circle,,Glenview,IL,61494,Toyota,Camry,2022,Blue,CAR3880582041,Fossil
+Car,Jack,Mackay,702 River Blvd,Unit D,Chicago,IL,61688,Toyota,Camry Hybrid,2021,Red,CAR2590189811,Hybrid
+Car,Stephanie,Sanderson,950 River Court,,Champaign,IL,62203,Nissan,Altima,2021,Grey,CAR1296067676,Fossil
+Car,Bella,Baker,100 West End Street,,Champaign,IL,62609,Tesla,Model 3,2022,Blue,CAR4489679911,Electric
+Car,Joshua,Gibson,888 Central Court,,Peru,IL,60484,Tesla,Model Y,2022,Black,CAR5812000213,Electric
+Car,Cameron,Ross,801 Arbor Avenue,,Peru,IL,62903,Toyota,Prius,2021,Grey,CAR3052094517,Hybrid
+Car,Lily,Black,440 Arbor Circle,Unit D,Glenview,IL,62946,Toyota,Camry Hybrid,2021,Blue,CAR3608467656,Hybrid
+Car,Tracey,Peake,555 High Court,,Waukegan,IL,61926,Nissan,Altima,2021,White,CAR2412599457,Fossil
+Car,Claire,Dyer,501 Brook Circle,Apt C,Chicago,IL,62022,Toyota,RAV4 Hybrid,2022,Blue,CAR6497087190,Hybrid
+Car,Phil,Hunter,950 River Circle,,Peru,IL,60364,Chevrolet,Malibu,2021,Grey,CAR3604763944,Fossil
+Car,Carol,Metcalfe,1000 Pleasant Court,Apt C,Champaign,IL,60883,Nissan,Altima,2021,Grey,CAR8804836953,Fossil
+Car,Leonard,Scott,950 West End Street,,Chicago,IL,61517,Chevrolet,Bolt EV,2021,Grey,CAR5176523605,Electric
+Car,Nicholas,Wallace,555 Center Street,,Chicago,IL,61216,Chevrolet,Bolt EV,2022,Black,CAR7952702531,Electric
+Car,Olivia,Wallace,1000 River Way,,Glenview,IL,60486,Hyundai,Sonata,2022,Black,CAR3945036176,Fossil
+Car,Wendy,Wallace,702 Pleasant Court,Apt C,Chicago,IL,62798,Chevrolet,Bolt EV,2022,Red,CAR3951912233,Electric
+Car,Wanda,Underwood,702 Center Way,,Waukegan,IL,61636,Honda,Civic,2022,White,CAR2407296694,Fossil
+Car,John,Wallace,900 Main Blvd,,Moline,IL,60667,Honda,Accord,2022,Black,CAR6696859625,Fossil
+Car,Joshua,Manning,100 Center Circle,,Moline,IL,62550,Tesla,Model Y,2021,White,CAR3920682580,Electric
+Car,Christian,Tucker,702 Central Court,,Peru,IL,62909,Toyota,Camry Hybrid,2022,Grey,CAR1678778719,Hybrid
+Car,Joshua,Hill,501 High Circle,,Urbana,IL,60602,Chevrolet,Malibu,2022,Blue,CAR9721796867,Fossil
+Car,Faith,Cameron,1000 Brook Street,,Lincoln,IL,60311,Nissan,Altima,2021,Black,CAR2276954873,Fossil
+Car,Julia,Tucker,440 Potter Way,,Lincoln,IL,60053,Honda,Civic,2021,Blue,CAR6080196669,Fossil
+Car,Sean,Welch,440 Arbor Way,,Lincoln,IL,62717,Toyota,Camry Hybrid,2021,White,CAR5626639330,Hybrid
+Car,Felicity,Gray,702 Pleasant Circle,,Peru,IL,61491,Honda,CR-V Hybrid,2022,Blue,CAR2341337063,Hybrid
+Car,Joe,Davidson,555 West End Street,Apt C,Moline,IL,61490,Toyota,Prius,2022,Black,CAR4287548374,Hybrid
+Car,Max,Roberts,211 High Court,,Chicago,IL,61094,Ford,Fusion,2022,Blue,CAR6511411147,Fossil
+Car,Abigail,Buckland,702 River Circle,,Glenview,IL,61805,Chevrolet,Bolt EV,2022,Grey,CAR3596437899,Electric
+Car,Nicholas,Oliver,888 Arbor Way,,Moline,IL,60648,Chevrolet,Malibu,2022,Red,CAR1170610950,Fossil
+Car,John,Howard,600 Pleasant Circle,Apt A,Champaign,IL,60577,Toyota,Camry,2021,White,CAR1074521368,Fossil
+Car,Victoria,King,702 High Avenue,Unit B,Urbana,IL,61382,Ford,Fusion,2022,White,CAR6245768351,Fossil
+Car,Bella,Manning,335 Central Circle,,Chicago,IL,60179,Ford,Fusion,2021,White,CAR9422718961,Fossil
+Car,Jasmine,Cameron,800 Brook Circle,,Waukegan,IL,62765,Ford,Fusion,2021,Grey,CAR2173502423,Fossil
+Car,Faith,Langdon,335 River Circle,,Champaign,IL,61256,Toyota,Corolla,2021,Red,CAR2927528306,Fossil
+Car,Jonathan,Langdon,702 Brook Way,,Lincoln,IL,61091,Toyota,RAV4 Hybrid,2021,Black,CAR4052672844,Hybrid
+Car,Gordon,Wright,777 High Way,,Lincoln,IL,62587,Toyota,Prius,2021,Black,CAR9290587336,Hybrid

@@ -1,0 +1,10 @@
+African elephant,10000,24000
+Asian elephant,8000,17640
+White rhinoceros,3000,9920
+Gaur,1000,3000
+Black rhinoceros,1500,4000
+Hippopotamus,2500,8820
+Giraffe,1544,4255
+American bison,700,2200
+Water buffalo,660,2200
+Cape buffalo,1100,2200
