@@ -1,0 +1,10 @@
+Blue Orange Blue Orange Purple
+Blue Purple Green Red Green 
+Red Red Orange Blue Orange 
+Red Orange Green Red Green 
+Yellow Red Yellow Blue Orange 
+Blue Blue Green Green Yellow 
+Purple Purple Green Orange Yellow 
+Red Green Orange Green Blue 
+Orange Purple Blue Red Green 
+Red Blue Red Red Blue 
